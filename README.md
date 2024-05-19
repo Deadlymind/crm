@@ -48,7 +48,7 @@ This document outlines the development, implementation, and deployment of a Cust
 ## Technologies Used
 
 - **Backend**: Django, Django REST Framework
-- **Frontend**: React, Next.js
+- **Frontend**: React & Next.js or HTML , CSS & JS 
 - **Database**: PostgreSQL
 - **Automation**: Celery, Redis
 - **Scraping**: BeautifulSoup, Scrapy
