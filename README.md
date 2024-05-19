@@ -77,59 +77,59 @@ The project is divided into multiple phases, each focusing on different aspects 
 
 ### Phase 1: Initial Setup and User Management
 
-**Week 1-2: Set Up Project and User Management**
+**Week 1-1: Set Up Project and User Management**
 - Initialize Django and React projects.
 - Set up user authentication and role-based access control.
 - Implement user registration, login, and profile management.
 
 ### Phase 2: Client Data Entry and Task Automation
 
-**Week 3-4: Implement Client Data Entry**
+**Week 1-2: Implement Client Data Entry**
 - Define models for clients.
 - Create forms and views for adding, updating, and viewing client information.
 - Set up API endpoints for CRUD operations.
 
-**Week 5-6: Develop Task Automation**
+**Week 1-3: Develop Task Automation**
 - Define models for tasks and interactions.
 - Implement task scheduling and notifications.
 - Create views and API endpoints for managing tasks.
 
 ### Phase 3: Reporting and Data Visualization
 
-**Week 7-8: Add Reporting Functionalities**
+**Week 1-4: Add Reporting Functionalities**
 - Develop views for generating sales reports.
 - Integrate Chart.js or D3.js for data visualization.
 - Create React components for displaying reports.
 
 ### Phase 4: Email Campaign Automation
 
-**Week 9-10: Keyword-Based Research and Data Scraping**
+**Week 1-5: Keyword-Based Research and Data Scraping**
 - Set up forms and views for entering keywords.
 - Implement functions to gather URLs and scrape email data.
 - Develop data validation and cleaning functions.
 
-**Week 11-12: File Generation and Campaign Management**
+**Week 1-6: File Generation and Campaign Management**
 - Create functions to compile scraped data into CSV/Excel files.
 - Set up Celery tasks for automation.
 - Develop views and API endpoints for managing email campaigns.
 
 ### Phase 5: Advanced Features and Integrations
 
-**Week 13-14: Implement Advanced Reporting and Analytics**
+**Week 1-7: Implement Advanced Reporting and Analytics**
 - Develop custom report generation features.
 - Integrate analytics tools for deeper insights.
 
-**Week 15-16: Enhanced User Experience and External Integrations**
+**Week 2-1: Enhanced User Experience and External Integrations**
 - Improve the user interface with features like drag-and-drop and real-time updates.
 - Integrate with third-party services like Mailchimp and Salesforce.
 
 ### Phase 6: Testing and Deployment
 
-**Week 17-18: Comprehensive Testing**
+**Week 2-2/6: Comprehensive Testing**
 - Conduct unit and integration testing.
 - Perform user acceptance testing (UAT).
 
-**Week 19-20: Deployment Preparation and Execution**
+**Week 2-7: Deployment Preparation and Execution**
 - Set up staging and production environments.
 - Prepare deployment scripts and ensure database migrations are applied.
 
@@ -171,10 +171,10 @@ The project is divided into multiple phases, each focusing on different aspects 
 
 ## Appendix
 
-- **System Architecture Diagram**: ![Link to diagram](system_architecture.png)
-- **Database Schema**: ![Link to schema](database_schema.png)
-- **API Documentation**: ![Link to API docs](api_docs.md)
-- **Deployment Scripts**: ![Link to scripts](deployment_scripts/)
+- **System Architecture Diagram**: ![Link to diagram]()
+- **Database Schema**: ![Link to schema]()
+- **API Documentation**: ![Link to API docs]()
+- **Deployment Scripts**: ![Link to scripts]()
 
 ---
 
