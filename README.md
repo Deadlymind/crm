@@ -181,5 +181,3 @@ The project is divided into multiple phases, each focusing on different aspects 
 This document outlines all the key aspects of the CRM system and email campaign automation project, providing a comprehensive guide from development to deployment and future enhancements. It serves as a reference for the development team, stakeholders, and users, ensuring everyone is aligned and informed about the project's goals, scope, and implementation.
 
 ---
-
-You can now place this document in your README.md file to provide a clear and detailed overview of the project. If you need any further adjustments, please let me know.
