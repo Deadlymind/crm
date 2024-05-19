@@ -77,7 +77,7 @@ The project is divided into multiple phases, each focusing on different aspects 
 
 ### Phase 1: Initial Setup and User Management
 
-**Week 1-1: Set Up Project and User Management**
+**Set Up Project and User Management**
 - Initialize Django and React projects.
 - Set up user authentication and role-based access control.
 - Implement user registration, login, and profile management.
