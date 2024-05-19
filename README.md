@@ -84,52 +84,52 @@ The project is divided into multiple phases, each focusing on different aspects 
 
 ### Phase 2: Client Data Entry and Task Automation
 
-**Week 1-2: Implement Client Data Entry**
+**Implement Client Data Entry**
 - Define models for clients.
 - Create forms and views for adding, updating, and viewing client information.
 - Set up API endpoints for CRUD operations.
 
-**Week 1-3: Develop Task Automation**
+**Develop Task Automation**
 - Define models for tasks and interactions.
 - Implement task scheduling and notifications.
 - Create views and API endpoints for managing tasks.
 
 ### Phase 3: Reporting and Data Visualization
 
-**Week 1-4: Add Reporting Functionalities**
+**Add Reporting Functionalities**
 - Develop views for generating sales reports.
 - Integrate Chart.js or D3.js for data visualization.
 - Create React components for displaying reports.
 
 ### Phase 4: Email Campaign Automation
 
-**Week 1-5: Keyword-Based Research and Data Scraping**
+**Keyword-Based Research and Data Scraping**
 - Set up forms and views for entering keywords.
 - Implement functions to gather URLs and scrape email data.
 - Develop data validation and cleaning functions.
 
-**Week 1-6: File Generation and Campaign Management**
+**File Generation and Campaign Management**
 - Create functions to compile scraped data into CSV/Excel files.
 - Set up Celery tasks for automation.
 - Develop views and API endpoints for managing email campaigns.
 
 ### Phase 5: Advanced Features and Integrations
 
-**Week 1-7: Implement Advanced Reporting and Analytics**
+**Implement Advanced Reporting and Analytics**
 - Develop custom report generation features.
 - Integrate analytics tools for deeper insights.
 
-**Week 2-1: Enhanced User Experience and External Integrations**
+**Enhanced User Experience and External Integrations**
 - Improve the user interface with features like drag-and-drop and real-time updates.
 - Integrate with third-party services like Mailchimp and Salesforce.
 
 ### Phase 6: Testing and Deployment
 
-**Week 2-2/6: Comprehensive Testing**
+**Comprehensive Testing**
 - Conduct unit and integration testing.
 - Perform user acceptance testing (UAT).
 
-**Week 2-7: Deployment Preparation and Execution**
+**Deployment Preparation and Execution**
 - Set up staging and production environments.
 - Prepare deployment scripts and ensure database migrations are applied.
 
