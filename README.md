@@ -22,7 +22,7 @@ Sure, here is the comprehensive project document formatted as a README.md file:
 
 ## Project Overview
 
-This document outlines the development, implementation, and deployment of a Customer Relationship Management (CRM) system and an email campaign automation solution for SMP France. The project aims to improve efficiency, automate repetitive tasks, and provide deeper insights into sales performance and client interactions.
+This document outlines the development, implementation, and deployment of a Customer Relationship Management (CRM) system and an email campaign automation solution for CF France. The project aims to improve efficiency, automate repetitive tasks, and provide deeper insights into sales performance and client interactions.
 
 ## Project Goals
 
