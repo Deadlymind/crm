@@ -1,6 +1,3 @@
-Sure, here is the comprehensive project document formatted as a README.md file:
-
----
 
 # Project Document: CRM System and Email Campaign Automation
 
